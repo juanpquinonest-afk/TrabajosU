@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-mergeDebugResources-37:\\layout\\fragment_compras_cuotas.xml",
+        "source": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-main-40:\\layout\\fragment_compras_cuotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-mergeDebugResources-37:\\layout\\activity_main_tabs.xml",
+        "source": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-main-40:\\layout\\activity_main_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-mergeDebugResources-37:\\layout\\fragment_descuentos.xml",
+        "source": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-main-40:\\layout\\fragment_descuentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-mergeDebugResources-37:\\layout\\fragment_dividir_cuenta.xml",
+        "source": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-main-40:\\layout\\fragment_dividir_cuenta.xml"
+    },
+    {
+        "merged": "com.example.asistentecompras.app-mergeDebugResources-37:/layout/activity_main_tabs.xml",
+        "source": "com.example.asistentecompras.app-main-40:/layout/activity_main_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\JUAN\\.gradle\\daemon\\8.7\\com.example.asistentecompras.app-main-40:\\layout\\activity_main.xml"
+    }
+]

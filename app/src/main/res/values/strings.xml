@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Asistente de Compras</string>
+
+    <!-- Registro -->
+    <string name="registro_titulo">Crear cuenta</string>
+    <string name="registro_subtitulo">Ingresa tus datos para comenzar a usar el asistente</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="error_nombre_vacio">Ingresa tu nombre</string>
+    <string name="error_correo_vacio">Ingresa tu correo</string>
+    <string name="error_correo_invalido">Ingresa un correo electrónico válido</string>
+
+    <!-- Tabs -->
+    <string name="tab_descuentos">Descuentos</string>
+    <string name="tab_dividir_cuenta">Dividir cuenta</string>
+    <string name="tab_compra_cuotas">Compra a cuotas</string>
+    <string name="saludo_usuario">Hola, %1$s</string>
+
+    <!-- Descuentos -->
+    <string name="hint_precio_original">Precio original del producto</string>
+    <string name="hint_porcentaje_descuento">Porcentaje de descuento (0 - 100)</string>
+    <string name="btn_calcular_descuento">Calcular</string>
+    <string name="label_descuento_aplicado">Descuento aplicado:</string>
+    <string name="label_total_pagar">Total a pagar:</string>
+
+    <!-- Dividir cuenta -->
+    <string name="hint_valor_cuenta">Valor total de la cuenta</string>
+    <string name="hint_numero_personas">Número de personas</string>
+    <string name="hint_porcentaje_propina">Porcentaje de propina (0 - 100)</string>
+    <string name="btn_calcular_division">Calcular</string>
+    <string name="label_propina">Propina:</string>
+    <string name="label_total_con_propina">Total con propina:</string>
+    <string name="label_valor_por_persona">Cada persona paga:</string>
+
+    <!-- Compra a cuotas -->
+    <string name="hint_valor_producto">Valor del producto</string>
+    <string name="hint_numero_cuotas">Número de cuotas</string>
+    <string name="hint_tasa_interes">Tasa de interés mensual (%)</string>
+    <string name="btn_calcular_cuotas">Calcular</string>
+    <string name="label_valor_original">Valor original del producto:</string>
+    <string name="label_valor_cuota">Valor aproximado de cada cuota:</string>
+    <string name="label_total_financiado">Total a pagar financiado:</string>
+
+    <!-- Errores comunes -->
+    <string name="error_campo_obligatorio">Completa este campo</string>
+    <string name="error_valor_positivo">Debe ser un valor mayor que cero</string>
+    <string name="error_valor_no_negativo">El valor no puede ser negativo</string>
+    <string name="error_porcentaje_rango">Debe estar entre 0 y 100</string>
+    <string name="pesta_as_de_navegaci_n">Pestañas de navegación</string>
+</resources>
